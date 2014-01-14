@@ -6,5 +6,5 @@ Join our online chat at [gitter.im/gitterHQ/gitter](https://gitter.im/gitterHQ/g
 
 More info at [gitter.im](https://gitter.im)
 
-Trello: [https://trello.com/b/ghYXB9rc/gitter-dev](https://trello.com/b/ghYXB9rc/gitter-dev)
+Trello: [trello.com/b/ghYXB9rc/gitter-dev](https://trello.com/b/ghYXB9rc/gitter-dev)
 
