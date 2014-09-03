@@ -1,6 +1,7 @@
 ![GITTER](http://i.imgur.com/DozxXlJ.png)
 
-## Discuss and file Gitter issues here
+Discuss and file Gitter issues here
+----
 
 Join our online chat at [![Gitter](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/gitterHQ/gitter)
 
