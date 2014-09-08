@@ -3,7 +3,7 @@
 Discuss and file Gitter issues here
 ----
 
-Join our online chat at [![Gitter](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/gitterHQ/gitter)
+Join our online chat at [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/gitterHQ/gitter)
 
 More info at [gitter.im](https://gitter.im)
 
