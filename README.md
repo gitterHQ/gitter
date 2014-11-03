@@ -1,4 +1,4 @@
-![GITTER](http://i.imgur.com/DozxXlJ.png)
+![GITTER](http://i.imgur.com/8ZX0M4X.png)
 
 Discuss and file Gitter issues here
 ----
@@ -7,5 +7,4 @@ Join our online chat at [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)
 
 More info at [gitter.im](https://gitter.im)
 
-Trello: [trello.com/b/ghYXB9rc/gitter-dev](https://trello.com/b/ghYXB9rc/gitter-dev)
 
