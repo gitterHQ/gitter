@@ -5,6 +5,5 @@ Discuss and file Gitter issues here
 
 Join our online chat at [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/gitterHQ/gitter)
 
-More info at [gitter.im](https://gitter.im)
-
-
+* Desktop Client: https://github.com/gitterHQ/desktop
+* Irc Bridge: https://github.com/gitterHQ/irc-bridge
